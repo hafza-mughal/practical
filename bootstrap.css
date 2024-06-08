@@ -1,0 +1,45 @@
+.costome-link{
+    font-weight: 600;
+  line-height: 1.7;
+  font-size: 18px;
+  
+    
+}
+.costome-link:hover{
+   
+    color:#fd7310 ;
+}
+.btn-brand{
+    color: white;
+    background-color: #fd7310;
+    border-color: #fd7310;
+    font-size: 20px;
+}
+.btn-brand:hover{
+    background-color: #a34a0b;
+    border-color: #a34a0b;
+    color: aliceblue;
+}
+.slide1{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) ,url("slide1.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.image1{
+    height: 400px;
+}
+.text{
+    font-size: 45px;
+    font-weight: 600;
+    color: #fd7310;
+    text-align: center;
+    margin: 40px;
+    
+}
+#about{
+    font-size: 22px;
+    padding: 20px;
+}
+.slide{
+    font-size: 24px;
+}
